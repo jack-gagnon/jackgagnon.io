@@ -1983,7 +1983,7 @@ li.right-footer-contnet a:first-child
 
 /* Style buttons */
 .btn {
-  background-color: DodgerBlue;
+  background-color: #D3D3D3;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -1993,5 +1993,5 @@ li.right-footer-contnet a:first-child
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: #A9A9A9;
 }
