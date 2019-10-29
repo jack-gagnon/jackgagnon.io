@@ -120,10 +120,10 @@ body {
 }
 
 .grid-image-top.openswitch {
-  background: -webkit-gradient(linear,left top, left bottom,from(#2db89a),to(#00793d));
-  background: -webkit-linear-gradient(#2db89a,#00793d);
-  background: -o-linear-gradient(#2db89a,#00793d);
-  background: linear-gradient(#2db89a,#00793d);
+  background: -webkit-gradient(linear,left top, left bottom,from(#ffbf00),to(#ffbf00));
+  background: -webkit-linear-gradient(#ffbf00,#ffbf00);
+  background: -o-linear-gradient(#ffbf00,#ffbf00);
+  background: linear-gradient(#ffbf00,#ffbf00);
 }
 
 .openswitch-image {
@@ -131,10 +131,10 @@ body {
 }
 
 .grid-image-top.scaleio {
-  background: -webkit-gradient(linear,left top, left bottom,from(#2e96dd),to(#326de6));
-  background: -webkit-linear-gradient(#2e96dd,#326de6);
-  background: -o-linear-gradient(#2e96dd,#326de6);
-  background: linear-gradient(#2e96dd,#326de6);
+  background: -webkit-gradient(linear,left top, left bottom,from(#ffbf00),to(#ffbf00));
+  background: -webkit-linear-gradient(#ffbf00,#ffbf00);
+  background: -o-linear-gradient(#ffbf00,#ffbf00);
+  background: linear-gradient(#ffbf00,#ffbf00);
 }
 
 .scaleio-image {
